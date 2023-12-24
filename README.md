@@ -47,7 +47,7 @@ inforich_benchmark.pickle
     ...
 }
 ```
-```Mardown
+```markdown
 * gen_raw: generation only given the previous dialogues and character attributes.
 * gen_senses: gen_raw + sense information
 * gen_emotion: gen_raw + emotion information
