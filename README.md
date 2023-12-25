@@ -4,6 +4,8 @@ This is a repository for a research Chatbot is Not All You Need: Information-ric
 
 On this repository, we release our benchmark dataset and evaluation samples. 
 
+**CAUTION**: As discussed in our paper, we observed several erroneous cases in our benchmark dataset. If you intend to use this evaluation set, you MUST look at the dataset and filter it for valid results.
+
 Each files' structures look like below:
 
 ```markdown
