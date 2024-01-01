@@ -1,6 +1,6 @@
 # InfoRichBot
 
-This is a repository for a research Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses. 
+This is a repository for a research [Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses](https://arxiv.org/abs/2312.16233). 
 
 On this repository, we release our benchmark dataset and evaluation samples. 
 [Google Drive](https://drive.google.com/drive/folders/1dV5RYE32PGbiPUcd4LeWuCjO4NH9GS23?usp=sharing)
